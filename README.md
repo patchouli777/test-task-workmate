@@ -4,6 +4,8 @@ https://docs.google.com/document/d/1QwinJt_NBghu9O3qBQ7CvvjW7RykHizJjmrZuRwa37M/
 
 # Как запустить?
 ```
+uv run
+
 .\.venv\Scripts\activate
 
 python .\main.py --files .\files\employees1.csv .\files\employees2.csv --report performance
